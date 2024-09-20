@@ -25,6 +25,7 @@ class _HomeLayoutState extends State<HomeLayout> {
               Icons.star,
               color: Colors.white,
             ),
+            SizedBox(width: 8.0),
             Text(
               'Creative App',
               style: TextStyle(color: Colors.white),
